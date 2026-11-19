@@ -1,3 +1,3 @@
 # demo
-first git rposotory 
+first git rpository .
 Author - Akshay R Shetty
